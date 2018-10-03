@@ -1,2 +1,0 @@
-# cscw-introducao
-Estudo - CSCW
